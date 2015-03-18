@@ -1,22 +1,26 @@
 ---
 layout: page
-title: Lesson Title
+title: SunPy Bootcamp
 ---
-Paragraph of introductory material.
+
+This website holds the material for the SunPy bootcamp given on the
+26th-27th March 2015 at The University of Sheffield.
+
+This bootcamp aims to teach you the basics of what you need to write
+good quality solar physics code in Python. It will introduce you to
+the Python programming language and then to the SunPy library.
 
 > ## Prerequisites {.prereq}
 >
-> A short paragraph describing what learners need to know
-> before tackling this lesson.
+> We assume that people working thorugh this material have some
+> experience programming, and with working from a command line, but
+> have minimal experience with Python.
 
-## Topics
+## Lessons
 
-1.  [Topic Title One](01-one.html)
-2.  [Topic Title Two](02-two.html)
+1.  [Verson Control with git](01-git.html)
+1.  [Stuart's IPython Notebook test](02-test.html)
 
 ## Other Resources
 
-*   [Motivation](motivation.html)
 *   [Reference](reference.html)
-*   [Discussion](discussion.html)
-*   [Instructor's Guide](instructors.html)

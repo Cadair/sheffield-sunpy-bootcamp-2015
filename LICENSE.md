@@ -2,7 +2,16 @@
 layout: page
 title: Licenses
 ---
-## Instructional Material
+## SunPy Bootcamp
+
+The SunPy bootcamp has been written by Andrew Leonard, Samuel
+Bennett, Nabil Freij and Stuart Mumford.
+The material is made availible under the [Creative Commons Attribution license][cc-by-human].
+Parts of the bootcamp, such as this website template and git
+sessions have used the excellent Software Carpentry material, the
+license and information for which is included below.
+
+### Instructional Material
 
 All Software Carpentry instructional material is made available under
 the [Creative Commons Attribution license][cc-by-human]. The following
@@ -43,7 +52,7 @@ Notices:
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
 
-## Software
+#### Software
 
 Except where otherwise noted, the example programs and other software
 provided by Software Carpentry are made available under the
@@ -69,7 +78,7 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Trademark
+###  Trademark
 
 "Software Carpentry" and the Software Carpentry logo are registered
 trademarks of [NumFOCUS][numfocus].
